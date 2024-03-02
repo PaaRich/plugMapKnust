@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d7937011.css",
+    "main.js": "/static/js/main.d55916d5.js",
+    "static/js/787.aea2808f.chunk.js": "/static/js/787.aea2808f.chunk.js",
+    "static/media/RedMarker.png": "/static/media/RedMarker.45528dbad176c389ccec.png",
+    "static/media/R.png": "/static/media/R.b57ce6183cee9dc58fb3.png",
+    "static/media/hostel.jpeg": "/static/media/hostel.97518bcd4126a0f8be47.jpeg",
+    "static/media/undraw_world_re_768g.svg": "/static/media/undraw_world_re_768g.c5d6c90e990cc3feb20b91d6ccfe8c0b.svg",
+    "static/media/routing-icon.png": "/static/media/routing-icon.79c8f1a811a53dee244f.png",
+    "static/media/Destinaion.png": "/static/media/Destinaion.047955af5b04dd2d9abc.png",
+    "index.html": "/index.html",
+    "main.d7937011.css.map": "/static/css/main.d7937011.css.map",
+    "main.d55916d5.js.map": "/static/js/main.d55916d5.js.map",
+    "787.aea2808f.chunk.js.map": "/static/js/787.aea2808f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7937011.css",
+    "static/js/main.d55916d5.js"
+  ]
+}
